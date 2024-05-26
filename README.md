@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Palak</h1>
 <h3 align="center">A passionate web developer from India 🇮🇳.</h3>
 
-- 🔭 I’m currently working on [making a dashboard to track financial expenses.](https://github.com/palakkalsi/nextjs-dashboard)
+- 🔭 I’m currently working on [making a dashboard to track financial expenses.](https://financedashboard-nextjs.vercel.app/)
 
 - 🌱 I’m currently learning **Next.js**
 
