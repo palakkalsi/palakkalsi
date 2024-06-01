@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Palak</h1>
-<h3 align="center">A passionate web developer from India.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js.**
 
-- 👯 I’m looking to collaborate on [building apps with reactnative..](https://reactnative.dev/)
+- 👯 I’m looking to collaborate on [building apps with reactnative.](https://reactnative.dev/)
 
-- 👨‍💻 All of my projects are available at [https://palakkalsi.netlify.app/](https://palakkalsi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://palakkalsi.netlify.app/](https://palakkalsi.netlify.app/).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
