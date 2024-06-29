@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Palak</h1>
 
-- 🌱 I’m currently learning **Next.js.**
+- 🌱 I’m currently learning **Spring Boot.**
 
 - 👯 I’m looking to collaborate on [building apps with reactnative](https://reactnative.dev/).
 
